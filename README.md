@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Agriculture AI Tools Research and Analysis
 
 ## Project Overview
@@ -173,3 +174,6 @@ The source URLs for individual tools are recorded in `agri_ai_tools.csv`. These 
 **Internship:** Applied AI & Data Prototyping — Week 1
 **Organization:** TriEnera
 **Author:** Shreekrishna K. S.
+=======
+# trienera-intern-shreekrishna
+>>>>>>> 4deb0dfc28635cf2f6b9034412a923c85ad55843
