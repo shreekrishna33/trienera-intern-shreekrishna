@@ -1,0 +1,21 @@
+Tool Name,Category,Function,AI/Technology Used,Language Support,Strength,Weakness,Source URL
+
+Plantix,Plant Disease Detection,Identifies possible plant diseases from crop images,To be verified,To be verified,Provides mobile-based plant health assistance,To be researched,https://plantix.net/
+
+Kisan e-Mitra,AI Agricultural Chatbot,Answers farmers questions about government agricultural schemes through a voice-enabled chatbot,Artificial Intelligence and conversational chatbot technology,11 regional languages according to the government report,Provides multilingual access to information about major farmer welfare schemes,Scope is focused on scheme-related queries rather than every agricultural problem,https://www.pib.gov.in/PressReleasePage.aspx?PRID=2227914&lang=1&reg=3
+
+FasalNetra,Plant Disease Detection,Analyzes crop images to identify pests and diseases,AI and computer vision,Verify supported languages,Provides confidence scores severity assessments and management recommendations,Investigate accuracy across different crops and field conditions,https://play.google.com/store/apps/details?id=ai.annam.fasalnetra
+
+ISAT,Climate-Based Agricultural Advisory,Provides location-specific weather-informed farming recommendations,AI weather data integration and rule-based engine,Local-language support documented; verify specific languages,Combines weather forecasts crop calendars and local information,Investigate deployment coverage and local data availability,https://issca.icrisat.org/scalable-solutions/intelligent-agricultural-systems-advisory-tool-isat
+
+YES-TECH,Crop Yield Estimation,Estimates crop yields to support crop insurance and loss assessment,Remote sensing and AI-driven analytics,Verify interface language options,Supports technology-based crop yield assessment,Investigate limitations of remote sensing and ground-level validation,https://www.pib.gov.in/PressNoteDetails.aspx?ModuleId=3&NoteId=155010&id=155010&lang=2&reg=3
+
+CROPIC,Crop Monitoring and Damage Assessment,Collects geotagged crop photographs to support crop validation and damage assessment,AI-enabled image-based monitoring; specific methods to be verified,Verify supported languages,Provides time-stamped field observations for evidence-based crop assessment,Investigate image quality and field coverage limitations,https://www.pib.gov.in/PressReleasePage.aspx?PRID=2148514&lang=2&reg=48
+
+National Pest Surveillance System (NPSS),Pest and Disease Detection,Uses crop and pest images to help identify infestations and provide crop protection advisories,Artificial Intelligence and Machine Learning with image analytics,English Hindi Marathi and Punjabi according to government documentation,Supports pest and disease identification across multiple crops,Accuracy under different field conditions needs further evaluation,https://www.pib.gov.in/PressReleasePage.aspx?PRID=2114896&lang=2&reg=3
+
+AgroBot,Agricultural AI Assistant,Provides crop recommendations disease checks mandi prices weather advice and government scheme information,Machine learning model and crop knowledge base,English and Hindi according to its website,Combines multiple farming assistance features in one interface,Recommendations depend on data availability and the accuracy of farm information,https://www.agrobot.in/
+
+Meghdoot,Weather-Based Agricultural Advisory,Provides weather forecasts and crop and livestock management advisories,Weather forecasting and agrometeorological advisory services; AI use in the app itself is not verified,English and regional languages; official sources report multilingual support,Helps farmers plan irrigation sowing and other weather-sensitive activities,Advisory usefulness depends on forecast accuracy and local data availability,https://mausam.imd.gov.in/
+
+Bharat-VISTAAR,AI Agricultural Advisory,Provides AI-powered agricultural information on crop management weather market prices and related services,Artificial Intelligence and integration of agricultural knowledge and government digital services,Multilingual support; verify the languages currently available,Designed to provide farmers with integrated and location-specific agricultural information,Phase 1 capabilities and service coverage should be checked against current official documentation,https://www.pib.gov.in/PressReleasePage.aspx?PRID=2239788&lang=1&reg=1
